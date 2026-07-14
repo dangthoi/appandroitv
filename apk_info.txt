@@ -1,6 +1,7 @@
 com.chophim.tv 1.0.4 Chophim.apk
 com.oxootv.spagreen 2.6.0 Phim4K.apk
 mh.qtvdbt.vip 4.3 QTV.apk
+com.sportxz.live 2.5 SportzX.apk
 com.haidaklak.iptv 1.1.6 THtv.apk
 com.apptv.vttv 1.0.11 VTTV.apk
 com.nghenhin24h.vietplaytv 2.3 VietPlayTV.apk
