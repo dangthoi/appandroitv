@@ -3,6 +3,7 @@ com.chophim.tv 1.0.4 Chophim.apk
 com.overseas.store.appstore 1.0.40 EmotnStore.apk
 com.linor.vn.getout 2.0 GetOut.apk
 com.kt.apps.media.xemtv.beta 25.04.06.B IMedia.apk
+com.marvel.storemcu 1.0 MCUStore.apk
 con.dinhlap.movielegend 1.0 MovieLegendStore.apk
 com.oxootv.spagreen 2.6.0 Phim4K.apk
 mh.qtvdbt.vip 4.3 QTV.apk
